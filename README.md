@@ -1,2 +1,2 @@
 # Bank-Marketing-Campaign-Analysis
-Power BI dashboard analyzing bank marketing campaign performance and customer subscription behavior.
+Power BI dashboard analyzing customer deposit subscription behavior and bank marketing campaign performance.
