@@ -31,7 +31,7 @@ The objective of this project was to identify:
 - Total Customers: 32,000
 - Total Subscribers: 15,142
 - Subscription Rate: 47.32%
-- Average Account Balance: €1,531.54
+- Average Account Balance: $1,531.54
 - Average Call Duration: 372.3 seconds
 
 ## Key Findings
